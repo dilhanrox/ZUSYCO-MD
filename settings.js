@@ -16,11 +16,11 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NUMBER: "94776884365",
+  SUDO_NUMBERS : "94776884365",
+  OWNER_NAME: "『 Dilhan 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  ZUSYCO_FILE : "ZUSYCO-QR-6",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  CAPTION : '© Dilhan',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
@@ -51,7 +51,7 @@ module.exports = {
      ALL_MESSAGES : true,
      ONLY_COMMANDS : false,
      STATUS : false,
-  },
+  }
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
